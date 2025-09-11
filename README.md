@@ -25,7 +25,7 @@ Two additional servers extend the core functionality:
   ![SO101 Arm Demo](assets/output2.gif)
 
 - Projection mapping: `https://github.com/ankithreddypati/sam2_projection_mapping`
-  ![Projection Mapping Demo](assets/armproject.jpeg)
+  ![Projection Mapping Demo](assets/armprojection.jpeg)
 
 
 ### Prerequisites
